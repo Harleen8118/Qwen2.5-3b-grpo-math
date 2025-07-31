@@ -36,12 +36,6 @@ Our GRPO-trained model achieved **61.33% accuracy** on the challenging GSM8K mat
 | Multi-step Reasoning | 41.2% | 49.8% | +8.6% |
 | Geometry | 38.9% | 45.3% | +6.4% |
 
-### Training Efficiency
-
-- **Model Size**: 3 billion parameters (compact)
-- **Training Time**: 6 hours on 2x A100 GPUs
-- **Memory Usage**: ~24GB with 4-bit quantization
-- **Convergence**: Stable improvement after 2 epochs
 
 ## Impact
 
